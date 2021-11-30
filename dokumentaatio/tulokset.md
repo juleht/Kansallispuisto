@@ -2,9 +2,11 @@
 
 *species_info.csv* aineisto sisältää 5504 eri eläin- ja kasvilajia, jotka jakautuvat 7 eri luokkaan: nisäkkäisiin, lintuihin, matelijoihin, sammakkoeläimiin, kaloihin, putkilokasveihin ja sammaliin. Suojeluntila jakautuu aineistossa 4 luokkaan: uhanalainen, toipumassa, vaarassa olevat lajit ja huolta aiheuttavat lajit. Valtaosa lajeista ei ole vaarassa ollenkaan. Alla kuva eläinten ja kasvien määristä eri suojelustatuksesta:
 
-![suojelutila](/kuvat/lajien_suojelutila.png)
+![suojelutila](/kuvat/Lajien_suojelutila.png)
 
 Lähempi tarkastelu eri eläin- ja kasvilajien suojeluntilasta paljastaa sen, että eri eliöstöstä suurempi osa on suojelussa kuin toisesta. Eri prosentit lajeista, joilla on jokin suojelustatus:
+
+
 ![taulukko](/kuvat/taulukko.png)
 
 
